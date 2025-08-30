@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420">
+  <rect width="100%" height="100%" fill="#021022"/>
+  <g transform="translate(40,40)">
+    <rect width="520" height="340" rx="12" fill="#06202b"/>
+    <text x="40" y="80" fill="#ffd166" font-size="20">Certificate of Achievement</text>
+    <text x="40" y="120" fill="#dbeafe" font-size="18">Microsoft Certified: Data Analyst Associate</text>
+    <text x="40" y="180" fill="#94a3b8" font-size="14">Issued: 2024</text>
+  </g>
+</svg>

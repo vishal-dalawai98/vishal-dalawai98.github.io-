@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="100%" height="100%" fill="#021022"/>
+  <g transform="translate(60,50)">
+    <rect width="1080" height="650" rx="12" fill="#06202b"/>
+    <text x="30" y="40" fill="#dbeafe" font-size="22">Forecasting Preview</text>
+    <g transform="translate(30,80)">
+      <polyline points="0,160 80,120 160,80 240,100 320,60 400,40" fill="none" stroke="#7c3aed" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+      <text x="30" y="200" fill="#dbeafe">Quarterly Forecast (sample)</text>
+    </g>
+  </g>
+</svg>
